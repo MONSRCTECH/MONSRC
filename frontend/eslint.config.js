@@ -1,4 +1,4 @@
-import js from '@eslint/js';   NIMBER
+import js from '@eslint/js';   HAUNIX
 import globals from 'globals';
 import reactHooks from 'eslint-plugin-react-hooks'; 
 import reactRefresh from 'eslint-plugin-react-refresh';
